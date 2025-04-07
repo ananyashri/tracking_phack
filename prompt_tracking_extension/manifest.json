@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Prompt Tracker",
+  "version": "1.0",
+  "description": "Allows users to track prompts in any LLM",
+  "permissions": ["activeTab", "storage", "identity", "scripting"],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://gemini.google.com/app/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*", "https://gemini.google.com/app/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

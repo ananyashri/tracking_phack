@@ -1,0 +1,10 @@
+prompt,prompt_timestamp,word_count,char_count,key_topics,deleted_words_percent,added_words_num,semantic_similarity,change_summary
+"""4th grade level fiction literature about social issue in society with supporting details sample paragraphs""",2025-03-17 03:12:02,15,108,"['society', 'details', 'grade', 'sample', 'fiction', 'issue', 'paragraphs', 'level', 'literature']",0,0,0,This is the first prompt.
+what is going on in south korea right now about president,2025-03-17 03:12:16,11,57,"['president', 'korea', 'south']",86.67,9,0.08,"The request shifted from a sample paragraph on a 4th-grade social issue to current events regarding South Korea's president.
+"
+can you generate this in korean,2025-03-17 03:12:27,6,31,['korean'],90.91,5,0.0625,"The user's request changed from asking about South Korean political news to requesting a Korean translation of that news.
+"
+how can i speak to my 70 yr old father in law about his parkinsons,2025-03-17 03:12:36,15,66,"['yr', 'law', 'parkinsons', 'father']",66.67,13,0.10526315789473684,"The query shifted from a translation request to a request for advice on communicating with a Parkinson's-afflicted father-in-law.
+"
+how to explain the science of parkinsons medicine to a parkinsons patient,2025-03-17 03:12:48,12,73,"['patient', 'medicine', 'parkinsons', 'science']",80.0,7,0.13636363636363635,"The focus shifted from inter-personal communication about Parkinson's to explaining the scientific aspects of its medication to a patient.
+"

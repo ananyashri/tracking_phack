@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: prompt_tracker
+Version: 0.1.0
+Requires-Dist: pandas
+Requires-Dist: python-dotenv
+Requires-Dist: google-generativeai
+Requires-Dist: transformers
+Requires-Dist: stanza
+Dynamic: requires-dist

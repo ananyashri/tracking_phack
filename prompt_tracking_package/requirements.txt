@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+google-generativeai
+transformers
+stanza
+unittest
